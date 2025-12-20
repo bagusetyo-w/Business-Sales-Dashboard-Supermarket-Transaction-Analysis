@@ -1,12 +1,12 @@
-Processed Data (`data/processed`)
+📁 Raw Data (`data/raw`)
 
-Folder ini berisi **data yang telah diproses** untuk keperluan analisis dan visualisasi.
+Folder ini berisi **data mentah (original dataset)** yang belum dilakukan perubahan atau pengolahan.
 
-Proses yang dilakukan:
-- Pembersihan data (data cleaning)
-- Penyesuaian format tanggal dan numerik
-- Penamaan ulang kolom agar lebih konsisten
-- Persiapan data untuk pivot table dan dashboard Power BI
+Karakteristik:
+- Data hasil pengumpulan transaksi supermarket
+- Belum dilakukan cleaning atau transformasi
+- Data belum dilakukan proses pivot table
+- Digunakan sebagai **referensi utama** sebelum proses analisis
 
 File:
-- `supermarket_sales_clean.xlsx`
+- `supermarket_sales_raw.xlsx`
