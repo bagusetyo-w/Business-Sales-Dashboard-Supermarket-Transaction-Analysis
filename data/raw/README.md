@@ -1,4 +1,4 @@
-📁 Raw Data (`data/raw`)
+Raw Data 
 
 Folder ini berisi **data mentah (original dataset)** yang belum dilakukan perubahan atau pengolahan.
 
@@ -9,4 +9,4 @@ Karakteristik:
 - Digunakan sebagai **referensi utama** sebelum proses analisis
 
 File:
-- `supermarket_sales_raw.xlsx`
+- `Raw_dataset_supermarket.xlsx`
