@@ -1,12 +1,12 @@
-## 📁 Processed Data (`data/processed`)
+Processed Data (`data/processed`)
 
 Folder ini berisi **data yang telah diproses** untuk keperluan analisis dan visualisasi.
 
-### Proses yang dilakukan:
+Proses yang dilakukan:
 - Pembersihan data (data cleaning)
 - Penyesuaian format tanggal dan numerik
 - Penamaan ulang kolom agar lebih konsisten
 - Persiapan data untuk pivot table dan dashboard Power BI
 
-### File:
+File:
 - `supermarket_sales_clean.xlsx`
