@@ -1,4 +1,4 @@
-📁 Processed Data (`data/processed`)
+Processed Data 
 
 Folder ini berisi **data yang telah diproses** untuk keperluan analisis dan visualisasi.
 
