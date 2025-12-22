@@ -6,7 +6,7 @@ Proses yang dilakukan:
 - Pembersihan data (data cleaning)
 - Penyesuaian format tanggal dan numerik
 - Penamaan ulang kolom agar lebih konsisten
-- Persiapan data untuk pivot table dan dashboard Power BI
+- Mengolah dan menyusun data dalam bentuk pivot table sebagai dasar pembuatan dashboard Power BI
 
 File:
 - `supermarket_dataset_clean.xlsx`
