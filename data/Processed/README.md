@@ -9,4 +9,4 @@ Proses yang dilakukan:
 - Persiapan data untuk pivot table dan dashboard Power BI
 
 File:
-- `supermarket_sales_clean.xlsx`
+- `supermarket_dataset_clean.xlsx`
