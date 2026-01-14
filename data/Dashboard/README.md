@@ -1,4 +1,4 @@
-## Dashboard Business Sales Supermarket
+ Dashboard Business Sales Supermarket
 
 Dashboard ini dibuat untuk memvisualisasikan kinerja penjualan supermarket berdasarkan data yang telah diproses (processed data).
 
@@ -16,12 +16,12 @@ Dashboard menampilkan:
 - **Top & Bottom Product**  
   Produk terlaris dan produk dengan penjualan terendah
 
-## Tujuan Dashboard
+ Tujuan Dashboard
 - Memantau performa penjualan secara cepat dan akurat
 - Mendukung pengambilan keputusan bisnis berbasis data
 - Mengidentifikasi tren, peluang, dan potensi masalah penjualan
 - Menyediakan laporan visual yang mudah dipahami oleh manajemen
 
-## Tools
+ Tools
 - Power BI sebagai tools visualisasi
 - Data source berasal dari folder **Processed Data**
