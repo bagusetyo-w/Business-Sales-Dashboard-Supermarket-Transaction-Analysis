@@ -1,4 +1,4 @@
-##Raw Data 
+Raw Data 
 
 Folder ini berisi **data mentah (original dataset)** yang belum dilakukan perubahan atau pengolahan.
 
